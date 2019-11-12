@@ -1,0 +1,2 @@
+# GSM-based-home-security-system
+Home Security Systems are an important feature of modern residential and office setups. Home security systems must be affordable, reliable and effective. Modern complex home security systems include several security features like fire, intruders, electronic door lock, heat, smoke, temperature, etc. Some security systems may be a combination of all the security measures. Such complex systems may be expensive and may not be affordable by everyone. There are individual security systems based on the requirement.
